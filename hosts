@@ -1,0 +1,10 @@
+# Static table lookup for hostnames.
+# See hosts(5) for details.
+127.0.0.1	localhost
+::1		localhost
+127.0.0.1	arch-2017-sager.localdomain	arch-2017-sager
+127.0.0.1 api.ssm-devbox.local
+127.0.0.1 njao.ssm-devbox.local
+127.0.0.1 nwc.ssm-devbox.local
+127.0.0.1 mychime.ssm-devbox.local
+127.0.0.1 mywardenexchange.ssm-devbox.local

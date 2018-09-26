@@ -1,0 +1,7 @@
+Description='Automatically generated profile by wifi-menu'
+Interface=wlp113s0
+Connection=wireless
+Security=none
+ESSID=Airwave-5G-A-529
+IP=dhcp
+

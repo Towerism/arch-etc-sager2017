@@ -1,0 +1,13 @@
+# Static information about the filesystems.
+# See fstab(5) for details.
+
+# <file system> <dir> <type> <options> <dump> <pass>
+# /dev/sda3
+UUID=51c3a32f-1e1f-4fdf-bf37-2cdeffe21023	/         	ext4      	rw,relatime	0 1
+
+# /dev/sda1
+UUID=6EC0-BBDA      	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,utf8,errors=remount-ro	0 2
+
+# /dev/sda2
+UUID=78f8b0f9-05b2-43e2-a720-8ae7b0d84cf5	none      	swap      	defaults,pri=-2	0 0
+
