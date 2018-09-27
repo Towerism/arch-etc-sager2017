@@ -1,4 +1,4 @@
-root:$6$oKcAeSIMALuvqTC.$VuHzvLKFXed8SCcBvck22FptXlWY.gzHXdzEGRneaEbCIQnHSxJclSVp2RALi51YPHVrMD/1gyLKMLerFOyZc.:17797::::::
+root:$6$36bmxd4dHmpTZKKc$4WU.2SfPMCk5Q0rTGCoc3snq8/KAtkpko1pDMVwAOeRaZ0CNMbA9yyB.QM6mLLISJqckAvgC6MpI8rvLGpubi/:17798::::::
 bin:!!:17797::::::
 daemon:!!:17797::::::
 mail:!!:17797::::::
@@ -15,3 +15,4 @@ avahi:!!:17797::::::
 colord:!!:17797::::::
 polkitd:!!:17797::::::
 rtkit:!!:17797::::::
+nvidia-persistenced:!!:17797::::::

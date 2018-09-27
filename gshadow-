@@ -44,3 +44,4 @@ colord:!!::
 polkitd:!!::
 docker:!!::mfracker
 rtkit:!!::
+nvidia-persistenced:!!::

@@ -44,3 +44,4 @@ colord:x:978:
 polkitd:x:102:
 docker:x:977:mfracker
 rtkit:x:133:
+nvidia-persistenced:x:143:
