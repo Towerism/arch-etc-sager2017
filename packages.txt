@@ -17,6 +17,7 @@ cmatrix
 code
 compton
 coreutils
+cronie
 cryptsetup
 device-mapper
 dhcpcd
