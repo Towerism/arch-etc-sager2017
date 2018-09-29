@@ -17,7 +17,7 @@ wheel:x:998:mfracker
 kmem:x:997:
 tty:x:5:
 utmp:x:996:
-audio:x:995:mpd
+audio:x:995:mopidy,mpd
 disk:x:994:
 input:x:993:
 kvm:x:992:
@@ -46,3 +46,4 @@ docker:x:977:mfracker
 rtkit:x:133:
 nvidia-persistenced:x:143:
 mpd:x:45:
+mopidy:x:46:
