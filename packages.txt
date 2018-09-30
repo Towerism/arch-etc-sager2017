@@ -82,6 +82,7 @@ mopidy-spotify
 mopidy-spotify-tunigo
 nano
 ncmpcpp
+neofetch
 netctl
 network-manager-applet
 networkmanager
@@ -89,6 +90,7 @@ npm
 numlockx
 nvidia
 nvm
+oh-my-zsh-git
 openssh
 pacman
 pacman-contrib
@@ -118,6 +120,7 @@ robo3t-bin
 rofi
 ruby-rake
 s-nail
+scrot
 sed
 shadow
 siji-git
