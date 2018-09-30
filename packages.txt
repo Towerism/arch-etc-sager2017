@@ -46,6 +46,7 @@ gcc-libs
 gettext
 git
 glibc
+gnome-keyring
 gpick
 grep
 grub
