@@ -107,6 +107,7 @@ polybar
 ponymix
 poppler-glib
 postman-bin
+prezto-git
 procps-ng
 projectm-pulseaudio
 psmisc
