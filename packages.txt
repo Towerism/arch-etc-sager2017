@@ -4,9 +4,11 @@ adobe-source-code-pro-fonts
 alsa-tools
 alsa-utils
 archey3
+atom
 autoconf
 automake
 bash
+bash-language-server
 binutils
 bison
 bzip2
@@ -27,6 +29,7 @@ dmenu
 docker
 docker-compose
 docker-machine
+dockerfile-language-server-bin
 dunst
 e2fsprogs
 efibootmgr
@@ -92,6 +95,7 @@ numlockx
 nvidia
 nvm
 oh-my-zsh-git
+oni-bin
 openssh
 pacman
 pacman-contrib
