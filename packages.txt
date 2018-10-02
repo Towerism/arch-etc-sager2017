@@ -130,7 +130,6 @@ scrot
 sed
 shadow
 siji-git
-sky
 spotify-stable
 stow
 sudo
