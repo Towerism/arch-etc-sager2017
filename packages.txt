@@ -67,7 +67,6 @@ jfsutils
 jsoncpp
 keychain
 kitty
-lastpass
 less
 libtool
 licenses
