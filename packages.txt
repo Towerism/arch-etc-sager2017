@@ -41,6 +41,7 @@ feh
 file
 filesystem
 findutils
+firefox
 flex
 franz-bin
 gawk
@@ -95,7 +96,7 @@ numlockx
 nvidia
 nvm
 oh-my-zsh-git
-oni-bin
+oni
 openssh
 pacman
 pacman-contrib
@@ -147,8 +148,10 @@ usbutils
 util-linux
 vi
 vim
+vue-language-server
 which
 wpa_supplicant
+x11-ssh-askpass
 xclip
 xf86-video-nouveau
 xfsprogs
@@ -201,5 +204,6 @@ xorg-xvinfo
 xorg-xwd
 xorg-xwininfo
 xorg-xwud
+yarn
 yay
 zsh
