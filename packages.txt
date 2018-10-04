@@ -15,6 +15,7 @@ bzip2
 cava
 chromium
 chromium-widevine
+clang
 cmatrix
 code
 compton
@@ -131,6 +132,7 @@ sed
 shadow
 siji-git
 spotify-stable
+stack
 stow
 sudo
 sysfsutils
