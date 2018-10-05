@@ -122,6 +122,7 @@ pulseaudio-alsa
 pulseeffects
 python-pip
 python-pywal
+qgit
 reiserfsprogs
 robo3t-bin
 rofi
