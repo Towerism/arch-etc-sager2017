@@ -34,7 +34,6 @@ dockerfile-language-server-bin
 dunst
 e2fsprogs
 efibootmgr
-emacs-git
 etckeeper
 expect
 fakeroot
