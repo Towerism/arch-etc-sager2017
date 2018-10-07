@@ -1,0 +1,7 @@
+Description='Automatically generated profile by wifi-menu'
+Interface=wlp113s0
+Connection=wireless
+Security=wpa
+ESSID=suddenlink.net-714A-5G
+IP=dhcp
+Key=7492W4333100257
