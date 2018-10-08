@@ -145,6 +145,7 @@ ttf-font-awesome-4
 ttf-ms-fonts
 ttf-roboto
 ttf-unifont
+unzip
 usbutils
 util-linux
 vi
