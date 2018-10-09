@@ -3,6 +3,7 @@ acpi
 adobe-source-code-pro-fonts
 alsa-tools
 alsa-utils
+arch-install-scripts
 archey3
 atom
 autoconf
@@ -52,6 +53,7 @@ git
 glibc
 gnome-keyring
 gpick
+gptfdisk
 grep
 grub
 gzip
@@ -140,6 +142,7 @@ sysstat
 systemd-sysvcompat
 tar
 texinfo
+the_silver_searcher
 thunderbird
 ttf-font-awesome-4
 ttf-ms-fonts

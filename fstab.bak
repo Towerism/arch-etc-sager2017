@@ -10,6 +10,3 @@ UUID=6EC0-BBDA      	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,cod
 
 # /dev/sda2
 UUID=78f8b0f9-05b2-43e2-a720-8ae7b0d84cf5	none      	swap      	defaults,pri=-2	0 0
-
-# /dev/sdb1
-UUID=fcf93d37-f25d-4a42-9566-f91a3be81530	/mnt/mass      	ext4      	rw,relatime	0 1
