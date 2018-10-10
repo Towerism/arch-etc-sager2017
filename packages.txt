@@ -144,6 +144,7 @@ tar
 texinfo
 the_silver_searcher
 thunderbird
+tig
 ttf-font-awesome-4
 ttf-ms-fonts
 ttf-roboto
