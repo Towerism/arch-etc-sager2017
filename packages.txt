@@ -75,6 +75,7 @@ licenses
 linux
 logrotate
 lostfiles
+lsb-release
 lvm2
 lxtask-gtk3
 m4
