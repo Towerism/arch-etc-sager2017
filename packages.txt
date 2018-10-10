@@ -129,6 +129,7 @@ robo3t-bin
 rofi
 ruby-rake
 s-nail
+s-tui
 scrot
 sed
 shadow
