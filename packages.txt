@@ -155,6 +155,7 @@ vi
 vim
 vue-language-server
 which
+wpa_actiond
 wpa_supplicant
 x11-ssh-askpass
 xclip
