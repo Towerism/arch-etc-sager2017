@@ -63,6 +63,7 @@ i3blocks-git
 i3lock
 i3status
 inetutils
+insomnia
 iproute2
 iputils
 jfsutils
