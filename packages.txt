@@ -52,6 +52,7 @@ gettext
 git
 glibc
 gnome-keyring
+go
 gpick
 gptfdisk
 grep
