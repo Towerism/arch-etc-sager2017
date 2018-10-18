@@ -48,11 +48,11 @@ franz-bin
 gawk
 gcc
 gcc-libs
+gdm
 gettext
 git
 glibc
 gnome-keyring
-go
 gpick
 gptfdisk
 grep

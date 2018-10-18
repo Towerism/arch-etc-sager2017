@@ -17,7 +17,7 @@ wheel:!!::mfracker
 kmem:!!::
 tty:!!::
 utmp:!!::
-audio:!!::mpd
+audio:!!::mopidy,mpd
 disk:!!::
 input:!!::
 kvm:!!::
@@ -46,3 +46,5 @@ docker:!!::mfracker
 rtkit:!!::
 nvidia-persistenced:!!::
 mpd:!!::
+mopidy:!!::
+usbmux:!::
