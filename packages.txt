@@ -48,7 +48,6 @@ franz-bin
 gawk
 gcc
 gcc-libs
-gdm
 gettext
 git
 glibc
