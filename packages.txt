@@ -85,7 +85,6 @@ man-db
 man-pages
 mc
 mdadm
-mercurial
 mopidy
 mopidy-spotify
 mopidy-spotify-tunigo
@@ -130,6 +129,7 @@ reiserfsprogs
 robo3t-bin
 rofi
 ruby-rake
+ruby-rdoc
 s-nail
 s-tui
 scrot
