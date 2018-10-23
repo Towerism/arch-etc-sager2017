@@ -139,6 +139,7 @@ siji-git
 spotify-stable
 stack
 stow
+subtle-git
 sudo
 sysfsutils
 sysstat
