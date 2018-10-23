@@ -85,6 +85,7 @@ man-db
 man-pages
 mc
 mdadm
+mercurial
 mopidy
 mopidy-spotify
 mopidy-spotify-tunigo
