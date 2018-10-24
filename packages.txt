@@ -5,7 +5,6 @@ alsa-tools
 alsa-utils
 arch-install-scripts
 archey3
-aspell
 atom
 autoconf
 automake
@@ -13,7 +12,6 @@ bash
 bash-language-server
 binutils
 bison
-brotli
 bzip2
 cava
 chromium
@@ -37,7 +35,6 @@ dockerfile-language-server-bin
 dunst
 e2fsprogs
 efibootmgr
-enchant
 etckeeper
 expect
 fakeroot
@@ -51,7 +48,6 @@ franz-bin
 gawk
 gcc
 gcc-libs
-geoclue2
 gettext
 git
 glibc
@@ -63,10 +59,7 @@ gptfdisk
 grep
 grub
 gzip
-harfbuzz-icu
-hspell
 hub
-hyphen
 i3-gaps
 i3blocks-git
 i3lock
@@ -82,7 +75,6 @@ kitty
 less
 libglade
 libtool
-libvoikko
 libxml++
 licenses
 linux
@@ -171,9 +163,7 @@ util-linux
 vi
 vim
 vue-language-server
-webkit2gtk
 which
-woff2
 wpa_actiond
 wpa_supplicant
 x11-ssh-askpass
