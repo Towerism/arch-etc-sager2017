@@ -48,3 +48,4 @@ nvidia-persistenced:x:143:
 mpd:x:45:
 mopidy:x:46:
 usbmux:x:140:
+gdm:x:120:

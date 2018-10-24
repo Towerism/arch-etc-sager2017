@@ -48,3 +48,4 @@ nvidia-persistenced:!!::
 mpd:!!::
 mopidy:!!::
 usbmux:!::
+gdm:!!::

@@ -23,6 +23,7 @@ compton
 coreutils
 cronie
 cryptsetup
+cups
 device-mapper
 dhcpcd
 dialog
