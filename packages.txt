@@ -59,6 +59,7 @@ gptfdisk
 grep
 grub
 gzip
+hplip
 hub
 i3-gaps
 i3blocks-git
