@@ -75,6 +75,8 @@ jsoncpp
 keychain
 kitty
 less
+lib32-gtk2
+lib32-nvidia-utils
 libglade
 libtool
 libxml++
