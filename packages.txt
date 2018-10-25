@@ -17,6 +17,7 @@ cava
 chromium
 chromium-widevine
 clang
+cmake
 cmatrix
 code
 compton
@@ -134,6 +135,7 @@ python-pip
 python-pywal
 qgit
 reiserfsprogs
+rhash
 robo3t-bin
 rofi
 ruby-rake
@@ -141,6 +143,9 @@ ruby-rdoc
 s-nail
 s-tui
 scrot
+sdl2_image
+sdl2_mixer
+sdl2_ttf
 sed
 shadow
 siji-git
