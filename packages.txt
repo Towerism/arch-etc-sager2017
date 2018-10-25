@@ -144,6 +144,7 @@ shadow
 siji-git
 spotify-stable
 stack
+steam
 stow
 subtle-git
 sudo
