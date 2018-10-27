@@ -103,6 +103,7 @@ neofetch
 netctl
 network-manager-applet
 networkmanager
+nodejs-yeoman
 npm
 numlockx
 nvidia
@@ -163,6 +164,7 @@ ttf-font-awesome-4
 ttf-ms-fonts
 ttf-roboto
 ttf-unifont
+unity-editor
 unzip
 usbutils
 util-linux
