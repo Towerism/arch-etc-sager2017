@@ -78,6 +78,7 @@ kitty
 less
 lib32-gtk2
 lib32-nvidia-utils
+libgdiplus
 libglade
 libtool
 libxml++
@@ -94,6 +95,7 @@ man-db
 man-pages
 mc
 mdadm
+mono
 mopidy
 mopidy-spotify
 mopidy-spotify-tunigo
