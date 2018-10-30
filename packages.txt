@@ -83,6 +83,7 @@ libtool
 libxml++
 licenses
 linux
+linux-zen
 logrotate
 lostfiles
 lsb-release
