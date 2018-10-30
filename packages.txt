@@ -76,6 +76,7 @@ jfsutils
 jsoncpp
 keychain
 kitty
+lastpass-cli
 less
 lib32-gtk2
 lib32-nvidia-utils
