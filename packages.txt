@@ -4,8 +4,6 @@ adobe-source-code-pro-fonts
 alsa-tools
 alsa-utils
 arch-install-scripts
-archey3
-atom
 autoconf
 automake
 bash
@@ -44,7 +42,6 @@ feh
 file
 filesystem
 findutils
-firefox
 flare-game-git
 flex
 franz-bin
@@ -117,7 +114,6 @@ oni
 openssh
 pacman
 pacman-contrib
-papirus-icon-theme
 patch
 pavucontrol
 pciutils
@@ -149,12 +145,10 @@ s-tui
 scrot
 sed
 shadow
-siji-git
 spotify-stable
 stack
 steam
 stow
-subtle-git
 sudo
 sysfsutils
 sysstat
@@ -165,7 +159,6 @@ the_silver_searcher
 thunderbird
 tig
 ttf-font-awesome-4
-ttf-ms-fonts
 ttf-roboto
 ttf-unifont
 unity-editor
