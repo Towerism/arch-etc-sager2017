@@ -1,6 +1,7 @@
 ack
 acpi
 adobe-source-code-pro-fonts
+aic94xx-firmware
 alsa-tools
 alsa-utils
 arch-install-scripts
@@ -173,6 +174,7 @@ vi
 vim
 vit
 vue-language-server
+wd719x-firmware
 which
 wireshark-qt
 wpa_actiond
