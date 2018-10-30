@@ -16,7 +16,6 @@ chromium
 chromium-widevine
 clang
 clerk-git
-cmake
 cmatrix
 code
 compton
@@ -33,6 +32,7 @@ docker
 docker-compose
 docker-machine
 dockerfile-language-server-bin
+downgrade
 dunst
 e2fsprogs
 efibootmgr
@@ -95,9 +95,13 @@ man-pages
 mc
 mdadm
 mopidy
+mopidy-iris
+mopidy-local-sqlite
 mopidy-spotify
 mopidy-spotify-tunigo
 mopidy-spotify-web
+mpc
+mpd-notification
 msbuild-stable
 nano
 ncmpcpp
@@ -137,7 +141,6 @@ python-pip
 python-pywal
 qgit
 reiserfsprogs
-rhash
 robo3t-bin
 rofi
 ruby-rake
@@ -147,7 +150,6 @@ s-tui
 scrot
 sed
 shadow
-spotify-stable
 stack
 steam
 stow
@@ -156,9 +158,9 @@ sysfsutils
 sysstat
 systemd-sysvcompat
 tar
+tasksh
 texinfo
 the_silver_searcher
-thunderbird
 tig
 ttf-font-awesome-4
 ttf-roboto
