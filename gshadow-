@@ -21,7 +21,7 @@ audio:!!::mopidy,mpd
 disk:!!::
 input:!!::
 kvm:!!::
-lp:!!::
+lp:!!::cups
 optical:!!::
 render:!!::
 storage:!!::
@@ -49,3 +49,4 @@ mpd:!!::
 mopidy:!!::
 usbmux:!::
 gdm:!!::
+cups:!!::

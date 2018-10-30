@@ -17,6 +17,7 @@ cava
 chromium
 chromium-widevine
 clang
+clerk-git
 cmatrix
 code
 compton
@@ -97,6 +98,7 @@ mdadm
 mopidy
 mopidy-spotify
 mopidy-spotify-tunigo
+mopidy-spotify-web
 msbuild-stable
 nano
 ncmpcpp
@@ -174,6 +176,7 @@ vi
 vim
 vue-language-server
 which
+wireshark-qt
 wpa_actiond
 wpa_supplicant
 x11-ssh-askpass
