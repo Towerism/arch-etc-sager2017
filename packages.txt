@@ -113,7 +113,6 @@ numlockx
 nvidia
 nvm
 oh-my-zsh-git
-omnisharp-roslyn
 oni
 openssh
 pacman
