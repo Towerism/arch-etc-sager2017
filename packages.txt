@@ -167,6 +167,7 @@ usbutils
 util-linux
 vi
 vim
+vit
 vue-language-server
 which
 wireshark-qt
