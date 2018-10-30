@@ -4,6 +4,8 @@ adobe-source-code-pro-fonts
 aic94xx-firmware
 alsa-tools
 alsa-utils
+apr
+apr-util
 arch-install-scripts
 autoconf
 automake
@@ -81,6 +83,7 @@ lib32-gtk2
 lib32-nvidia-utils
 libglade
 libtool
+libutf8proc
 libxml++
 licenses
 linux
@@ -150,10 +153,12 @@ s-nail
 s-tui
 scrot
 sed
+serf
 shadow
 stack
 steam
 stow
+subversion
 sudo
 sysfsutils
 sysstat
