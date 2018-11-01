@@ -140,6 +140,7 @@ psmisc
 pulseaudio
 pulseaudio-alsa
 pulseeffects
+python-neovim
 python-pip
 python-pywal
 qgit
@@ -154,7 +155,6 @@ scrot
 sed
 shadow
 spim-svn
-stack
 steam
 stow
 sudo
@@ -177,6 +177,7 @@ usbutils
 util-linux
 vdpauinfo
 vi
+vifm
 vim
 vit
 vue-language-server
