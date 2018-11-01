@@ -116,6 +116,7 @@ nodejs-yeoman
 npm
 numlockx
 nvidia
+nvidia-settings
 nvm
 oh-my-zsh-git
 oni
@@ -167,12 +168,14 @@ texinfo
 the_silver_searcher
 tig
 ttf-font-awesome-4
+ttf-ms-fonts
 ttf-roboto
 ttf-unifont
 unity-editor
 unzip
 usbutils
 util-linux
+vdpauinfo
 vi
 vim
 vit
