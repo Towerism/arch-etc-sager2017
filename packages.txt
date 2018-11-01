@@ -95,7 +95,6 @@ m4
 make
 man-db
 man-pages
-mc
 mdadm
 mopidy
 mopidy-iris
