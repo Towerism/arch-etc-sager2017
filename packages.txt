@@ -167,6 +167,7 @@ tasksh
 texinfo
 the_silver_searcher
 tig
+ttf-dejavu
 ttf-font-awesome-4
 ttf-ms-fonts
 ttf-roboto
