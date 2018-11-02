@@ -71,6 +71,7 @@ i3lock
 i3status
 inetutils
 insomnia
+intel-ucode
 iproute2
 iputils
 jfsutils
