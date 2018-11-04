@@ -7,6 +7,7 @@ alsa-utils
 arch-install-scripts
 autoconf
 automake
+autorandr
 bash
 bash-language-server
 binutils
