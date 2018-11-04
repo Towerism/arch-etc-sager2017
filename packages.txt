@@ -18,6 +18,7 @@ chromium
 chromium-widevine
 clang
 clerk-git
+cmake
 cmatrix
 code
 compton
@@ -147,6 +148,7 @@ python-pip
 python-pywal
 qgit
 reiserfsprogs
+rhash
 robo3t-bin
 rofi
 ruby-rake
