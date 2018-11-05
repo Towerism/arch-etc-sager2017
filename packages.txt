@@ -192,6 +192,7 @@ vit
 vue-language-server
 wd719x-firmware
 which
+wine-staging
 wireshark-qt
 wpa_actiond
 wpa_supplicant
