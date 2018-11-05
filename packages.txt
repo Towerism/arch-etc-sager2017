@@ -135,6 +135,7 @@ pipes.sh
 pkgconf
 pkgfile
 playerctl
+playonlinux
 polybar
 ponymix
 poppler-glib
