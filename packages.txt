@@ -173,6 +173,7 @@ tar
 tasksh
 texinfo
 the_silver_searcher
+thunar
 tig
 ttf-dejavu
 ttf-font-awesome-4
