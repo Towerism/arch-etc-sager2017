@@ -109,6 +109,7 @@ mopidy-spotify-web
 mpc
 mpd-notification
 msbuild-stable
+namcap
 nano
 ncmpcpp
 neofetch
@@ -122,6 +123,7 @@ nvidia
 nvidia-settings
 nvm
 oh-my-zsh-git
+onivim-git
 openssh
 pacman
 pacman-contrib
