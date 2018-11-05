@@ -183,7 +183,6 @@ usbutils
 util-linux
 vdpauinfo
 vi
-vifm
 vim
 vit
 vue-language-server
