@@ -18,7 +18,6 @@ chromium
 chromium-widevine
 clang
 clerk-git
-cmake
 cmatrix
 code
 compton
@@ -27,6 +26,7 @@ coreutils
 cronie
 cryptsetup
 cups
+debtap
 device-mapper
 dhcpcd
 dialog
@@ -54,6 +54,7 @@ gawk
 gcc
 gcc-libs
 gettext
+gibo
 gimp
 git
 glibc
@@ -121,7 +122,6 @@ nvidia
 nvidia-settings
 nvm
 oh-my-zsh-git
-oni
 openssh
 pacman
 pacman-contrib
@@ -148,11 +148,11 @@ python-pip
 python-pywal
 qgit
 reiserfsprogs
-rhash
 robo3t-bin
 rofi
 ruby-rake
 ruby-rdoc
+rustup
 s-nail
 s-tui
 scrot

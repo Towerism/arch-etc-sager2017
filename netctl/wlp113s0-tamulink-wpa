@@ -1,7 +1,19 @@
 Description='Automatically generated profile by wifi-menu'
 Interface=wlp113s0
 Connection=wireless
-Security=wpa
-ESSID=tamulink-wpa
+Description='university'
+Security=wpa-configsection
 IP=dhcp
-ExcludeAuto=yes
+ESSID=tamulink-wpa
+WPAConfigSection=(
+    'ssid="tamulink-wpa"'
+    'key_mgmt=WPA-EAP'
+    'eap=PEAP'
+    'proto=RSN'
+    'group=CCMP'
+    'pairwise=CCMP'
+    'identity="patricia.najera"'
+    'password="0ldMan451"'
+    'priority=1'
+    'phase2="auth=MSCHAPV2"'
+)
