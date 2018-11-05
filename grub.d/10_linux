@@ -74,7 +74,7 @@ linux_entry ()
   os="$1"
   version="$2"
   type="$3"
-  args="$4 resume=UUID=78f8b0f9-05b2-43e2-a720-8ae7b0d84cf5 nvidia-drm.modeset=1 acpi_enforce_resources=lax vsyscall=emulate"
+  args="$4"
 
   if [ -z "$boot_device_id" ]; then
       boot_device_id="$(grub_get_device_id "${GRUB_DEVICE}")"
