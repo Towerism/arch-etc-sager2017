@@ -85,6 +85,7 @@ lastpass-cli
 less
 lib32-gtk2
 lib32-nvidia-utils
+lib32-vulkan-icd-loader
 libglade
 libtool
 libxml++
