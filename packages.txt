@@ -93,6 +93,7 @@ linux
 logrotate
 lostfiles
 lsb-release
+lutris
 lvm2
 lxtask-gtk3
 m4
