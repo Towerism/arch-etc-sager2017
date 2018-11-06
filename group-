@@ -50,3 +50,4 @@ mopidy:x:46:
 usbmux:x:140:
 gdm:x:120:
 cups:x:209:
+wireshark:x:150:
