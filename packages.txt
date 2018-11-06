@@ -31,7 +31,6 @@ device-mapper
 dhcpcd
 dialog
 diffutils
-discount
 dmenu
 docker
 docker-compose
@@ -60,7 +59,6 @@ gimp
 git
 glibc
 gnome-keyring
-go
 go-langserver-git
 go-tools
 gpick
@@ -85,7 +83,6 @@ keychain
 kitty
 lastpass-cli
 less
-lhasa
 lib32-gtk2
 lib32-nvidia-utils
 lib32-sqlite
@@ -137,19 +134,6 @@ patch
 pavucontrol
 pciutils
 perl
-perl-extutils-config
-perl-extutils-helpers
-perl-extutils-installpaths
-perl-file-remove
-perl-inc-latest
-perl-json
-perl-module-build
-perl-module-build-tiny
-perl-module-install
-perl-module-scandeps
-perl-par-dist
-perl-test-requires
-perl-yaml-tiny
 pipes.sh
 pkgconf
 pkgfile
