@@ -13,7 +13,6 @@ bash-language-server
 binutils
 bison
 bitwarden-bin
-bitwarden-server
 bzip2
 cava
 chromium
