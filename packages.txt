@@ -113,6 +113,7 @@ mopidy-spotify-web
 mpc
 mpd-notification
 msbuild-stable
+munin-node
 namcap
 nano
 ncmpcpp
