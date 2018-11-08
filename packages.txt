@@ -184,10 +184,12 @@ ttf-font-awesome-4
 ttf-ms-fonts
 ttf-roboto
 ttf-unifont
+typescript-language-server-bin
 unity-editor
 unzip
 usbutils
 util-linux
+vagrant
 vdpauinfo
 vi
 vim
