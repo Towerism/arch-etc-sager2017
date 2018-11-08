@@ -212,6 +212,7 @@ xclip
 xcompmgr
 xf86-video-nouveau
 xfsprogs
+xinit-xsession
 xorg-appres
 xorg-bdftopcf
 xorg-docs
