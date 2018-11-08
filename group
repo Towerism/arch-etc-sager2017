@@ -26,7 +26,7 @@ optical:x:990:
 render:x:989:
 storage:x:988:
 uucp:x:987:
-video:x:986:
+video:x:986:sddm
 users:x:985:
 systemd-journal:x:984:
 rfkill:x:983:
@@ -56,3 +56,4 @@ munin:x:975:
 systemd-network:x:974:
 systemd-resolve:x:973:
 systemd-timesync:x:972:
+sddm:x:971:

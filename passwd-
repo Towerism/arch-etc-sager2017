@@ -23,3 +23,6 @@ gdm:x:120:120:Gnome Display Manager:/var/lib/gdm:/sbin/nologin
 cups:x:209:209:cups helper user:/:/sbin/nologin
 bitwarden:x:976:976:bitwarden user:/var/lib/bitwarden:/sbin/nologin
 munin:x:975:975:Munin system monitor:/var/lib/munin:/bin/false
+systemd-network:x:974:974:systemd Network Management:/:/sbin/nologin
+systemd-resolve:x:973:973:systemd Resolver:/:/sbin/nologin
+systemd-timesync:x:972:972:systemd Time Synchronization:/:/sbin/nologin
