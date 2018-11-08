@@ -122,7 +122,6 @@ netctl
 netstat-nat
 network-manager-applet
 networkmanager
-nitrogen
 nodejs-yeoman
 nodejs-ynab-cli
 npm
