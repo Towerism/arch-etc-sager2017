@@ -52,3 +52,4 @@ gdm:x:120:
 cups:x:209:
 wireshark:x:150:
 bitwarden:x:976:
+munin:x:975:

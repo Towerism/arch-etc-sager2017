@@ -53,3 +53,6 @@ cups:x:209:
 wireshark:x:150:
 bitwarden:x:976:
 munin:x:975:
+systemd-network:x:974:
+systemd-resolve:x:973:
+systemd-timesync:x:972:
