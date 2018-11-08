@@ -6,6 +6,7 @@ alsa-tools
 alsa-utils
 arch-install-scripts
 autoconf
+autoconf-archive
 automake
 autorandr
 bash
@@ -32,6 +33,8 @@ dhcpcd
 dialog
 diffutils
 dmenu
+docbook-xml
+docbook-xsl
 docker
 docker-compose
 docker-machine
@@ -53,19 +56,25 @@ franz-bin
 gawk
 gcc
 gcc-libs
+gd
 gettext
 gibo
 gimp
 git
+glib2-docs
 glibc
 glsof
+gnome-common
 gnome-keyring
 go-langserver-git
 go-tools
 gpick
 gptfdisk
+graphviz
 grep
 grub
+gtk-doc
+gts
 gzip
 hplip
 hub
@@ -76,8 +85,10 @@ i3status
 inetutils
 insomnia
 intel-ucode
+intltool
 iproute2
 iputils
+itstool
 jfsutils
 jsoncpp
 keychain
@@ -140,6 +151,7 @@ patch
 pavucontrol
 pciutils
 perl
+perl-xml-parser
 pipes.sh
 pkgconf
 pkgfile
@@ -155,6 +167,8 @@ psmisc
 pulseaudio
 pulseaudio-alsa
 pulseeffects
+python-anytree
+python-lxml
 python-neovim
 python-pip
 python-pywal
@@ -170,6 +184,7 @@ s-tui
 scrot
 sed
 shadow
+source-highlight
 spim-svn
 steam
 stow
@@ -195,6 +210,7 @@ unzip
 usbutils
 util-linux
 vagrant
+vala
 vdpauinfo
 vi
 vim
@@ -264,4 +280,6 @@ xorg-xwininfo
 xorg-xwud
 yarn
 yay
+yelp-tools
+yelp-xsl
 zsh
