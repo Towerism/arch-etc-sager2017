@@ -59,6 +59,7 @@ gibo
 gimp
 git
 glibc
+glsof
 gnome-keyring
 go-langserver-git
 go-tools
