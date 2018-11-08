@@ -92,6 +92,8 @@ libglade
 libtool
 libxml++
 licenses
+lightdm
+lightdm-gtk-greeter
 linux
 logrotate
 lostfiles

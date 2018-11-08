@@ -57,3 +57,4 @@ systemd-network:x:974:
 systemd-resolve:x:973:
 systemd-timesync:x:972:
 sddm:x:971:
+lightdm:x:620:
