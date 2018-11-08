@@ -20,7 +20,6 @@ clang
 clerk-git
 cmatrix
 code
-compton
 conan
 coreutils
 cronie
