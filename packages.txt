@@ -121,6 +121,7 @@ netctl
 netstat-nat
 network-manager-applet
 networkmanager
+nitrogen
 nodejs-yeoman
 nodejs-ynab-cli
 npm
@@ -141,7 +142,6 @@ pipes.sh
 pkgconf
 pkgfile
 plasma-desktop
-plasma-meta
 playerctl
 playonlinux
 polybar
@@ -203,6 +203,7 @@ wd719x-firmware
 which
 wine-staging
 wireshark-qt
+wmctrl
 wpa_actiond
 wpa_supplicant
 x11-ssh-askpass
