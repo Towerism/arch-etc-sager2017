@@ -140,6 +140,7 @@ perl
 pipes.sh
 pkgconf
 pkgfile
+plasma-desktop
 playerctl
 playonlinux
 polybar
