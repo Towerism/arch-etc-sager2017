@@ -118,6 +118,7 @@ nano
 ncmpcpp
 neofetch
 netctl
+netstat-nat
 network-manager-applet
 networkmanager
 nodejs-yeoman
