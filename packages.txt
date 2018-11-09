@@ -6,7 +6,6 @@ alsa-tools
 alsa-utils
 arch-install-scripts
 autoconf
-autoconf-archive
 automake
 autorandr
 bash
@@ -33,8 +32,6 @@ dhcpcd
 dialog
 diffutils
 dmenu
-docbook-xml
-docbook-xsl
 docker
 docker-compose
 docker-machine
@@ -56,25 +53,19 @@ franz-bin
 gawk
 gcc
 gcc-libs
-gd
 gettext
 gibo
 gimp
 git
-glib2-docs
 glibc
 glsof
-gnome-common
 gnome-keyring
 go-langserver-git
 go-tools
 gpick
 gptfdisk
-graphviz
 grep
 grub
-gtk-doc
-gts
 gzip
 hplip
 hub
@@ -85,10 +76,8 @@ i3status
 inetutils
 insomnia
 intel-ucode
-intltool
 iproute2
 iputils
-itstool
 jfsutils
 jsoncpp
 keychain
@@ -105,6 +94,7 @@ libxml++
 licenses
 lightdm
 lightdm-gtk-greeter
+lightdm-slick-greeter
 linux
 logrotate
 lostfiles
@@ -151,7 +141,6 @@ patch
 pavucontrol
 pciutils
 perl
-perl-xml-parser
 pipes.sh
 pkgconf
 pkgfile
@@ -167,8 +156,6 @@ psmisc
 pulseaudio
 pulseaudio-alsa
 pulseeffects
-python-anytree
-python-lxml
 python-neovim
 python-pip
 python-pywal
@@ -184,7 +171,6 @@ s-tui
 scrot
 sed
 shadow
-source-highlight
 spim-svn
 steam
 stow
@@ -204,13 +190,13 @@ ttf-font-awesome-4
 ttf-ms-fonts
 ttf-roboto
 ttf-unifont
+typescript
 typescript-language-server-bin
 unity-editor
 unzip
 usbutils
 util-linux
 vagrant
-vala
 vdpauinfo
 vi
 vim
@@ -225,7 +211,6 @@ wpa_actiond
 wpa_supplicant
 x11-ssh-askpass
 xclip
-xcompmgr
 xf86-video-nouveau
 xfsprogs
 xinit-xsession
@@ -280,6 +265,4 @@ xorg-xwininfo
 xorg-xwud
 yarn
 yay
-yelp-tools
-yelp-xsl
 zsh
