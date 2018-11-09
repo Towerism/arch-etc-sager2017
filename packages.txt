@@ -142,6 +142,8 @@ patch
 pavucontrol
 pciutils
 perl
+pidgin
+pidgin-sipe
 pipes.sh
 pkgconf
 pkgfile
@@ -157,6 +159,7 @@ psmisc
 pulseaudio
 pulseaudio-alsa
 pulseeffects
+purple-skypeweb
 python-neovim
 python-pip
 python-pywal
