@@ -165,6 +165,7 @@ python-pip
 python-pywal
 qgit
 reiserfsprogs
+remmina
 robo3t-bin
 rofi
 ruby-rake
