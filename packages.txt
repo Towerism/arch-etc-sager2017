@@ -51,6 +51,7 @@ findutils
 flare-game-git
 flex
 franz-bin
+freerdp
 gawk
 gcc
 gcc-libs
