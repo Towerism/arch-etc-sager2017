@@ -108,6 +108,7 @@ m4
 make
 man-db
 man-pages
+md2pdf
 mdadm
 mopidy
 mopidy-iris
@@ -127,6 +128,7 @@ netctl
 netstat-nat
 network-manager-applet
 networkmanager
+nodejs-markdown-pdf
 nodejs-yeoman
 nodejs-ynab-cli
 npm
@@ -139,6 +141,7 @@ onivim-git
 openssh
 pacman
 pacman-contrib
+pandoc
 patch
 pavucontrol
 pciutils
