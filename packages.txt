@@ -190,6 +190,7 @@ systemd-sysvcompat
 tar
 tasksh
 texinfo
+texlive-core
 the_silver_searcher
 thunar
 tig
