@@ -48,6 +48,7 @@ feh
 file
 filesystem
 findutils
+firefox
 flare-game-git
 flex
 franz-bin
