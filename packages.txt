@@ -207,6 +207,7 @@ unzip
 usbutils
 util-linux
 vagrant
+valgrind
 vdpauinfo
 vi
 vim
