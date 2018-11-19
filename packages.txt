@@ -51,6 +51,7 @@ findutils
 firefox
 flare-game-git
 flex
+fprintd
 franz-bin
 freerdp
 gawk
