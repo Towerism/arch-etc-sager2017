@@ -92,6 +92,7 @@ lib32-gtk2
 lib32-nvidia-utils
 lib32-sqlite
 lib32-vulkan-icd-loader
+libfprint
 libglade
 libtool
 libxml++
