@@ -197,6 +197,7 @@ texlive-core
 the_silver_searcher
 thunar
 tig
+tigervnc
 transset-df
 ttf-dejavu
 ttf-font-awesome-4
