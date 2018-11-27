@@ -57,3 +57,4 @@ systemd-network:!!::
 systemd-resolve:!!::
 systemd-timesync:!!::
 sddm:!!::
+lightdm:!!::
