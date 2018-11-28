@@ -12,7 +12,6 @@ bash
 bash-language-server
 binutils
 bison
-bitwarden-bin
 bzip2
 cava
 chromium
@@ -22,7 +21,6 @@ clerk-git
 cmatrix
 code
 compton
-conan
 coreutils
 cronie
 cryptsetup
@@ -49,7 +47,6 @@ file
 filesystem
 findutils
 firefox
-flare-game-git
 flex
 fprintd
 franz-bin
@@ -100,7 +97,6 @@ libxml++
 licenses
 lightdm
 lightdm-gtk-greeter
-lightdm-slick-greeter
 linux
 logrotate
 lostfiles
@@ -133,6 +129,7 @@ netctl
 netstat-nat
 network-manager-applet
 networkmanager
+nodejs-create-nuxt-app
 nodejs-markdown-pdf
 nodejs-yeoman
 nodejs-ynab-cli
@@ -208,7 +205,6 @@ ttf-roboto
 ttf-unifont
 typescript
 typescript-language-server-bin
-unity-editor
 unzip
 usbutils
 util-linux
