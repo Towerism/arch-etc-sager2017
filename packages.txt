@@ -214,6 +214,7 @@ valgrind
 vdpauinfo
 vi
 vim
+virtualbox
 vit
 vue-language-server
 wd719x-firmware
