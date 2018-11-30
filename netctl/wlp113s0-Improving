@@ -1,0 +1,8 @@
+Description='Automatically generated profile by wifi-menu'
+Interface=wlp113s0
+Connection=wireless
+Security=wpa
+ESSID=Improving
+IP=dhcp
+Key=3101ed022e
+Priority=4

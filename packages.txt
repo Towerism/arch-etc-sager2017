@@ -99,6 +99,7 @@ licenses
 lightdm
 lightdm-gtk-greeter
 linux
+linux-headers
 logrotate
 lostfiles
 lsb-release
