@@ -199,6 +199,7 @@ the_silver_searcher
 thunar
 tig
 tigervnc
+traceroute
 transset-df
 ttf-dejavu
 ttf-font-awesome-4
