@@ -21,7 +21,9 @@ clerk-git
 cmatrix
 code
 compton
+conan
 coreutils
+cquery
 cronie
 cryptsetup
 cups
