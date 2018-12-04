@@ -39,6 +39,7 @@ downgrade
 dunst
 e2fsprogs
 efibootmgr
+emacs
 etckeeper
 expect
 fakeroot
