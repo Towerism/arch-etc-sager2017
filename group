@@ -60,3 +60,4 @@ sddm:x:971:
 lightdm:x:620:
 locate:x:21:
 vboxusers:x:108:
+chrome-remote-desktop:x:619:

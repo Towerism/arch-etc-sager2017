@@ -15,6 +15,7 @@ bison
 bluez-utils
 bzip2
 cava
+chrome-remote-desktop
 chromium
 chromium-widevine
 clang
@@ -177,7 +178,6 @@ purple-skypeweb
 python-neovim
 python-pip
 python-pywal
-python2-psutil
 qgit
 reiserfsprogs
 remmina

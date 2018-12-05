@@ -59,3 +59,4 @@ systemd-timesync:x:972:
 sddm:x:971:
 lightdm:x:620:
 locate:x:21:
+vboxusers:x:108:

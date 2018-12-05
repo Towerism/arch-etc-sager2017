@@ -1,0 +1,27 @@
+{
+  "name": "com.google.chrome.remote_assistance",
+  "description": "Remote Assistance Host for Chrome Remote Desktop",
+  "type": "stdio",
+  "path": "/opt/google/chrome-remote-desktop/remote-assistance-host",
+  
+  "allowed_origins": [
+    
+    "chrome-extension://ljacajndfccfgnfohlgkdphmbnpkjflk/",
+    
+    "chrome-extension://gbchcmhmhahfdphkhkmpfmihenigjmpp/",
+    
+    "chrome-extension://kgngmbheleoaphbjbaiobfdepmghbfah/",
+    
+    "chrome-extension://odkaodonbgfohohmklejpjiejmcipmib/",
+    
+    "chrome-extension://dokpleeekgeeiehdhmdkeimnkmoifgdd/",
+    
+    "chrome-extension://ajoainacpilcemgiakehflpbkbfipojk/",
+    
+    "chrome-extension://hmboipgjngjoiaeicfdifdoeacilalgc/",
+    
+    "chrome-extension://inomeogfingihgjfjlpeplalcfajhgai/",
+    
+    "chrome-extension://hpodccmdligbeohchckkeajbfohibipg/"
+  ]
+}
