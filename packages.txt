@@ -68,6 +68,7 @@ glsof
 gnome-keyring
 go-langserver-git
 go-tools
+gobject-introspection
 gpick
 gptfdisk
 grep
@@ -175,6 +176,9 @@ pulseaudio-alsa
 pulseaudio-bluetooth
 pulseeffects
 purple-skypeweb
+python-beaker
+python-mako
+python-markupsafe
 python-neovim
 python-pip
 python-pywal
