@@ -177,6 +177,7 @@ purple-skypeweb
 python-neovim
 python-pip
 python-pywal
+python2-psutil
 qgit
 reiserfsprogs
 remmina
@@ -190,6 +191,8 @@ s-tui
 scrot
 sed
 shadow
+skypeforlinux-stable-bin
+slack-desktop
 spim-svn
 steam
 stow
