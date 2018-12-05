@@ -134,6 +134,7 @@ netctl
 netstat-nat
 network-manager-applet
 networkmanager
+nnn
 nodejs-create-nuxt-app
 nodejs-markdown-pdf
 nodejs-yeoman
