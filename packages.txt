@@ -12,6 +12,7 @@ bash
 bash-language-server
 binutils
 bison
+bluez-utils
 bzip2
 cava
 chromium
@@ -170,6 +171,7 @@ projectm-pulseaudio
 psmisc
 pulseaudio
 pulseaudio-alsa
+pulseaudio-bluetooth
 pulseeffects
 purple-skypeweb
 python-neovim

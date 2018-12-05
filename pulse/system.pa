@@ -55,3 +55,7 @@ load-module module-suspend-on-idle
 
 ### Enable positioned event sounds
 load-module module-position-event-sounds
+
+### Bluetooth
+load-module module-bluetooth-policy
+load-module module-bluetooth-discover
