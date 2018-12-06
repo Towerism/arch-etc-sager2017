@@ -68,6 +68,7 @@ glsof
 gnome-keyring
 go-langserver-git
 go-tools
+google-chrome
 gpick
 gptfdisk
 grep
@@ -208,6 +209,7 @@ the_silver_searcher
 thunar
 tig
 tigervnc
+toontown-rewritten
 traceroute
 transset-df
 ttf-dejavu
