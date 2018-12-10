@@ -10,6 +10,7 @@ automake
 autorandr
 bash
 bash-language-server
+bcompare
 binutils
 bison
 bluez-utils
