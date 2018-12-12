@@ -1,0 +1,7 @@
+Description='Automatically generated profile by wifi-menu'
+Interface=wlp113s0
+Connection=wireless
+Security=none
+ESSID=Airwave-M4-4FL-Lobby
+IP=dhcp
+
