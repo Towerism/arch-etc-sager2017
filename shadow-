@@ -27,3 +27,4 @@ systemd-network:!!:17843::::::
 systemd-resolve:!!:17843::::::
 systemd-timesync:!!:17843::::::
 sddm:!!:17843::::::
+lightdm:!!:17843::::::

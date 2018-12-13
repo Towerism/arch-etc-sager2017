@@ -61,3 +61,8 @@ lightdm:x:620:
 locate:x:21:
 vboxusers:x:108:
 chrome-remote-desktop:x:619:
+brlapi:x:970:
+libvirt:x:969:
+tss:x:968:
+gluster:x:967:
+rpc:x:32:

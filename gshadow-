@@ -60,3 +60,4 @@ sddm:!!::
 lightdm:!!::
 locate:!!::
 vboxusers:!!::
+chrome-remote-desktop:!::
