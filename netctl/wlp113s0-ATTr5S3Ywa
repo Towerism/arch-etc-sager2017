@@ -1,0 +1,7 @@
+Description='Automatically generated profile by wifi-menu'
+Interface=wlp113s0
+Connection=wireless
+Security=wpa
+ESSID=ATTr5S3Ywa
+IP=dhcp
+Key=NextWave

@@ -206,6 +206,7 @@ oh-my-zsh-git
 onivim-git
 openssh
 orca
+p4v
 pacman
 pacman-contrib
 pandoc
