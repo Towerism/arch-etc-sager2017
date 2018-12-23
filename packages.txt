@@ -192,6 +192,7 @@ netctl
 netstat-nat
 network-manager-applet
 networkmanager
+ngrok
 nnn
 nodejs-create-nuxt-app
 nodejs-markdown-pdf
