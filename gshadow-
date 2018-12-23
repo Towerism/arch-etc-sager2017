@@ -61,3 +61,9 @@ lightdm:!!::
 locate:!!::
 vboxusers:!!::
 chrome-remote-desktop:!::
+brlapi:!!::
+libvirt:!!::
+tss:!!::
+gluster:!!::
+rpc:!!::
+guest-orxwgb:!::
