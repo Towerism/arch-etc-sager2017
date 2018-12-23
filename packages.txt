@@ -206,6 +206,7 @@ nvidia-settings
 nvm
 oh-my-zsh-git
 onivim-git
+openbox
 openssh
 orca
 p4v
