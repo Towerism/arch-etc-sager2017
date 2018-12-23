@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name[bs]=Budgie Helper
+Name[cs]=GNOME historické
+Name[de]=Budgie Helper
+Name[el]=Budgie Helper
+Name[es]=Budgie Helper
+Name[he]=Budgie Helper
+Name[hu]=Budgie Helper
+Name[id]=Budgie Helper
+Name[pl]=Tradycyjne środowisko GNOME
+Name[pt]=Budgie Helper
+Name[pt_BR]=Budgie Helper
+Name[ru]=Budgie Helper
+Name[sk]=Klasické prostredie GNOME
+Name[sr]=Стари Гном
+Name[sr@latin]=Stari Gnom
+Name[zh_HK]=Budgie Helper
+Name[zh_TW]=Budgie Helper
+Name=Budgie Helper
+Exec=budgie-helper
+OnlyShowIn=Budgie;
+NoDisplay=true
+X-GNOME-Autostart-Phase=Desktop
+X-GNOME-Autostart-Notify=true
+X-GNOME-AutoRestart=true

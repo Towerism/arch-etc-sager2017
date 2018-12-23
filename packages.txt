@@ -15,6 +15,7 @@ bcompare
 binutils
 bison
 bluez-utils
+budgie-desktop
 bzip2
 cava
 cheese
