@@ -4,6 +4,7 @@ adobe-source-code-pro-fonts
 aic94xx-firmware
 alsa-tools
 alsa-utils
+angular-cli
 arch-install-scripts
 autoconf
 automake
