@@ -1,0 +1,15 @@
+[core]
+SigLevel = PackageRequired
+Server=https://archive.archlinux.org/repos/2019//01/01/$repo/os/$arch
+
+[extra]
+SigLevel = PackageRequired
+Server=https://archive.archlinux.org/repos/2019//01/01/$repo/os/$arch
+
+[community]
+SigLevel = PackageRequired
+Server=https://archive.archlinux.org/repos/2019//01/01/$repo/os/$arch
+
+[multilib]
+SigLevel = PackageRequired
+Server=https://archive.archlinux.org/repos/2019//01/01/$repo/os/$arch

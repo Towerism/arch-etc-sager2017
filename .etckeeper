@@ -827,6 +827,8 @@ maybe chmod 0644 'opt/chrome/native-messaging-hosts/com.google.chrome.remote_ass
 maybe chmod 0644 'opt/chrome/native-messaging-hosts/com.google.chrome.remote_desktop.json'
 maybe chmod 0644 'packages.txt'
 maybe chmod 0644 'pacman.conf'
+maybe chmod 0644 'pacman.conf.bak'
+maybe chmod 0644 'pacman.conf.emerg'
 maybe chmod 0755 'pacman.d'
 maybe chmod 0755 'pacman.d/gnupg'
 maybe chmod 0644 'pacman.d/gnupg/.gpg-v21-migrated'
